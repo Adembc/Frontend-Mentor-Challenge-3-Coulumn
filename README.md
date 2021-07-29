@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Adembc/Frontend-Mentor-Challenge-3-Coulumn)
-- Live Site URL: [Add live site URL here](https://adembc.github.io/Frontend-Mentor-Challenge-3-Coulumn/)
+- Solution URL: [solution URL here](https://github.com/Adembc/Frontend-Mentor-Challenge-3-Coulumn)
+- Live Site URL: [live site URL here](https://adembc.github.io/Frontend-Mentor-Challenge-3-Coulumn/)
 
 ## My process
 
