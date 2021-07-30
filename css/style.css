@@ -83,7 +83,7 @@ button{
 .container > div:nth-child(3)  > button:hover {
     background-color :  var(--dark-cyan);
 } 
-@media (min-width : 376px) and (max-width : 1440px){
+@media (min-width : 917px){
     body{
         display: grid;
         justify-content: center;
